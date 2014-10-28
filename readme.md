@@ -1,5 +1,9 @@
 # Quickstart for Bootstrap
 
+Bootsttap 의 기본적인 APIs 로 만들어진 기본 웹어플리케이션입니다. 자세한 사용법은 [Quickstart Overview 페이지]()를 참고하세요.
+
+![](https://github.com/KoreaHTML5/quickstart-bootstrap/blob/d06f6f049ec0ad6d29c668946414ac55ff6b785a/snapshot.png)
+
 # 빠르게 시작하기
 
 1. 마지막으로 릴리즈 된 버전을 [여기에서]() 다운로드 하세요.
